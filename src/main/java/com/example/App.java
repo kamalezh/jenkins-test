@@ -9,6 +9,6 @@ public class App {
     public static void main(String[] args) {
         App app = new App();
 
-        System.out.println(app.add(100, 200));
+        System.out.println(app.add(200, 300));
     }
 }
